@@ -154,6 +154,10 @@ nav a:hover {
    Author's custom styles
    ========================================================================== */
 
+.plain {
+    text-decoration: none;
+    text-decoration-color: white;
+}
 
 
 
