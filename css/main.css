@@ -70,12 +70,12 @@ body {
    =================== */
 
 .header-container {
-    border-bottom: 20px solid #88c9f9;
+    border-bottom: 20px solid #0084b4;
 }
 
 .footer-container,
 .main aside {
-    border-top: 20px solid #88c9f9;
+    border-top: 20px solid #0084b4;
 }
 
 .header-container,
@@ -108,7 +108,7 @@ nav a {
     font-weight: bold;
 
     color: white;
-    background: #e44d26;
+    background: #0084b4;
 }
 
 nav a:hover,
@@ -156,7 +156,9 @@ nav a:hover {
 
 .plain {
     text-decoration: none;
-    text-decoration-color: white;
+    color: #0084b4;
+    text-emphasis-color: #e1e8ed;
+    text-emphasis-style: filled;
 }
 
 
