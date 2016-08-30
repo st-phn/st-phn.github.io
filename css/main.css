@@ -377,3 +377,6 @@ nav a:hover {
         page-break-after: avoid;
     }
 }
+.link:hover {
+  text-decoration: underline;
+}
